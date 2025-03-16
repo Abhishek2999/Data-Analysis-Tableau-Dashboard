@@ -16,6 +16,8 @@ This project analyzes UPI (Unified Payments Interface) transactions to provide i
 
 ## Dashboard
 
+<img src="https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png" width="400" height="200">
+
 ![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png)
 
 ## Process

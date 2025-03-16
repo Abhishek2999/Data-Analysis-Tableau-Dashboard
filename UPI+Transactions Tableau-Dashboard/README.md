@@ -42,7 +42,7 @@ The UPI Transactions Tableau Dashboard serves as a powerful tool for analyzing d
 ## Key Features
 - **Worksheets:**
   - `Card Visual`: Displays high-level KPIs such as total transactions, total amount, and average transaction value.
-  #### ![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png)
+    #### ![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png)
   - `Column Chart`: Shows trends in UPI transactions over time.
     ####![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png)
   - `Map Visual`: Highlights the geographic distribution of transactions.

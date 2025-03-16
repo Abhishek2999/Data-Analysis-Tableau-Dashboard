@@ -28,6 +28,8 @@ This project analyzes UPI (Unified Payments Interface) transactions to provide i
 
 ![GIF Description](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Dashboard%20Gif.gif)
 
+
+
 ## Project Insights
 - Significant growth in UPI transactions over time, indicating increased adoption.
 - Specific regions contribute more to transaction volumes, highlighting key financial hubs.
@@ -38,24 +40,12 @@ This project analyzes UPI (Unified Payments Interface) transactions to provide i
 The UPI Transactions Tableau Dashboard serves as a powerful tool for analyzing digital payment trends. Businesses and financial institutions can leverage these insights to enhance transaction efficiency, improve financial planning, and identify expansion opportunities. Future enhancements can include predictive analytics and fraud detection for better financial security.
 
 ## Key Features
-- **Dashboard Name:** `Dashboard 1`
 - **Worksheets:**
   - `Card Visual`: Displays high-level KPIs such as total transactions, total amount, and average transaction value.
   - `Column Chart`: Shows trends in UPI transactions over time.
   - `Map Visual`: Highlights the geographic distribution of transactions.
-- **Data Source:** Federated data source (external or multiple combined sources)
-- **Key Metrics:**
-  - Total Transactions
-  - Total Transaction Value
-  - Average Transaction Size
-  - Geographic Transaction Breakdown
-  - Monthly/Yearly Growth Trends
 
-## Usage
-1. Open the `.twbx` file in Tableau Desktop.
-2. Explore different visualizations by interacting with filters and tooltips.
-3. Use the map view to analyze regional transaction trends.
-4. Utilize column charts to identify seasonal or monthly trends in transaction volume.
+
 
 ## Requirements
 - Tableau Desktop (version 18.1 or later)
@@ -65,8 +55,5 @@ The UPI Transactions Tableau Dashboard serves as a powerful tool for analyzing d
 - Integration of additional financial metrics like fraud detection trends.
 - Dynamic filtering based on user demographics.
 - Machine learning-driven transaction predictions.
-
-## Author
-Created by [Your Name] for insightful data analysis in the fintech domain.
 
 

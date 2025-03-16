@@ -28,7 +28,10 @@ This project analyzes UPI (Unified Payments Interface) transactions to provide i
 
 ![GIF Description](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Dashboard%20Gif.gif)
 
-
+## Key Features
+- Card Visual: Displays high-level KPIs such as total transactions, total amount, and average transaction value.
+- Column Chart: Shows trends in UPI transactions over time.
+- Map Visual: Highlights the geographic distribution of transactions.
 
 ## Project Insights
 - Significant growth in UPI transactions over time, indicating increased adoption.
@@ -38,17 +41,6 @@ This project analyzes UPI (Unified Payments Interface) transactions to provide i
 
 ## Final Conclusion
 The UPI Transactions Tableau Dashboard serves as a powerful tool for analyzing digital payment trends. Businesses and financial institutions can leverage these insights to enhance transaction efficiency, improve financial planning, and identify expansion opportunities. Future enhancements can include predictive analytics and fraud detection for better financial security.
-
-## Key Features
-- **Worksheets:**
-  - `Card Visual`: Displays high-level KPIs such as total transactions, total amount, and average transaction value.
-  <img src="https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/card%20visual.png" width="1550" height="112">
-  - `Column Chart`: Shows trends in UPI transactions over time.
-  <img src="https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Column%20chart.png" width="400" height="200">
-  - `Map Visual`: Highlights the geographic distribution of transactions.
-  <img src="https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/map%20visual.png" width="400" height="200">
-
-
 
 ## Requirements
 - Tableau Desktop (version 18.1 or later)

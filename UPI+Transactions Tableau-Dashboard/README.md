@@ -16,8 +16,6 @@ This project analyzes UPI (Unified Payments Interface) transactions to provide i
 
 ## Dashboard
 
-<img src="https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png" width="400" height="200">
-
 ![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png)
 
 ## Process
@@ -44,11 +42,11 @@ The UPI Transactions Tableau Dashboard serves as a powerful tool for analyzing d
 ## Key Features
 - **Worksheets:**
   - `Card Visual`: Displays high-level KPIs such as total transactions, total amount, and average transaction value.
-    #### ![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png)
+    <img src="https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/card%20visual.png" width="400" height="200">
   - `Column Chart`: Shows trends in UPI transactions over time.
-    ####![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png)
+   <img src="https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Column%20chart.png" width="400" height="200">
   - `Map Visual`: Highlights the geographic distribution of transactions.
-    ####![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png)
+   <img src="https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/map%20visual.png" width="400" height="200">
 
 
 

@@ -16,7 +16,7 @@ This project analyzes UPI (Unified Payments Interface) transactions to provide i
 
 ## Dashboard
 
-###### ![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png)
+![Screenshot 2025-02-23 131215](https://github.com/Abhishek2999/Data-Analysis-Tableau-Dashboard/blob/main/UPI%2BTransactions%20Tableau-Dashboard/Screenshot.png)
 
 ## Process
 1. **Data Collection:** Data sourced from federated databases containing UPI transaction records.
